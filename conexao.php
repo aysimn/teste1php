@@ -15,3 +15,4 @@ if ($conexao->connect_error) {
 echo "Conexão bem-sucedida!";
 
 ?>
+//teste
